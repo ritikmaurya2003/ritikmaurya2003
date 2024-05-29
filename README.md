@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ritikm9695@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://pdf.ac/3Nwv97)
+- 📄 Know about my experiences [Click Here](file:///C:/Users/Ritik%20Maurya/Downloads/RitikMaurya_InternshalaResume.pdf)
 
 - ⚡ Fun fact **When I'm not immersed in lines of code, you'll probably find me. Whether it's [mention specific activities like hiking, playing a musical instrument, gaming, etc.], I'm always up for an adventure. Let's swap coding stories over a a cup of coffee sometime!**
 
