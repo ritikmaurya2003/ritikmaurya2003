@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ritik Maurya</h1>
-<h3 align="center">A passionate Developer from India</h3>
-
+<h1 align="center">Hey Everyone 👋, I'm Ritik Maurya</h1>
+<h3 align="center">A passionate Developer From India</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikmaurya2003&label=Profile%20views&color=0e75b6&style=flat" alt="ritikmaurya2003" /> </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 💬 Ask me about **I'm your go-to for all things tech! Whether it's programming languages like C,Java,Python,HTML,CSS,JavaScript, software development expertise spanning backend to frontend, or my knack for problem-solving in engineering challenges, I'm here to help. I thrive on exploring new tools and frameworks, diving into open-source projects, and discussing the latest tech trends. Let's collaborate and innovate together!**
+- 💬 Ask me about **anything ! Whether it's programming languages like C,Java,Python,HTML,CSS,JavaScript, software development expertise spanning backend to frontend, or my knack for problem-solving in engineering challenges, I'm here to help. I thrive on exploring new tools and frameworks, diving into open-source projects, and discussing the latest tech trends. Let's collaborate and innovate together!**
 
 - 📫 How to reach me **ritikm9695@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Ritik%20Maurya/Downloads/RitikMaurya_InternshalaResume.pdf](file:///C:/Users/Ritik%20Maurya/Downloads/RitikMaurya_InternshalaResume.pdf)
+- 📄 Know about my experiences [Click Here](https://pdf.ac/3Nwv97)
 
 - ⚡ Fun fact **When I'm not immersed in lines of code, you'll probably find me. Whether it's [mention specific activities like hiking, playing a musical instrument, gaming, etc.], I'm always up for an adventure. Let's swap coding stories over a a cup of coffee sometime!**
 
@@ -28,3 +28,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikmaurya2003&show_icons=true&locale=en" alt="ritikmaurya2003" /></p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikmaurya2003&" alt="ritikmaurya2003" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ritikmaurya2003&limit=5&theme=flat&combine_all_yearly_contributions=true)
