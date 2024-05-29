@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ritikm9695@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1HoRjUnXC8a2uUrHPoncu5Lf4BTbJsq8Y/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1VSGFqCee-Nf025tFopsxYWlIbl-aPinx/view?usp=sharing)
 
 - ⚡ Fun fact **When I'm not immersed in lines of code, you'll probably find me. Whether it's [mention specific activities like hiking, playing a musical instrument, gaming, etc.], I'm always up for an adventure. Let's swap coding stories over a a cup of coffee sometime!**
 
