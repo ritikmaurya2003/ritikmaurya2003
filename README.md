@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1VSGFqCee-Nf025tFopsxYWlIbl-aPinx/view?usp=sharing)
 
-- ⚡ Fun fact **When I'm not immersed in lines of code, you'll probably find me. Whether it's [mention specific activities like hiking, playing a musical instrument, gaming, etc.], I'm always up for an adventure. Let's swap coding stories over a a cup of coffee sometime!**
+- ⚡ Fun fact **When I'm not immersed in lines of code, you'll probably find me playing games and editing videos. Whether it's playing cricket or other games like Football and hangout with friends, I'm always up for an adventure. Let's swap coding stories over a a cup of coffee sometime!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
